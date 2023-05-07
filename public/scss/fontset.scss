@@ -1,0 +1,176 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: "NotoSansBold";
+    src:
+        // url(../fonts/NotoSansKR-Bold.woff2) format("woff2"),
+        // url(../fonts/NotoSansKR-Bold.woff) format("woff"),
+        url(../fonts/NotoSansKR-Bold.otf) format("opentype");
+    font-style: normal;
+    // font-weight: 700;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "NotoSansMedium";
+    src:
+        // url(../fonts/NotoSansKR-Medium.woff2) format("woff2"),
+        // url(../fonts/NotoSansKR-Medium.woff) format("woff"),
+        url(../fonts/NotoSansKR-Medium.otf) format("opentype");
+    font-style: normal;
+    // font-weight: 500;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "NotoSansRegular";
+    src:
+        // url(../fonts/NotoSansKR-Regular.woff2) format("woff2"),
+        // url(../fonts/NotoSansKR-Regular.woff) format("woff"),
+        url(../fonts/NotoSansKR-Regular.otf) format("opentype");
+    font-style: normal;
+    // font-weight: 400;
+    font-weight: normal;
+}
+
+/* 나눔바른고딕 */
+
+@font-face {
+    font-family: "NanumBarunGothicLight";
+    src:
+        url(../fonts/NanumBarunGothicLight.otf) format("opentype");
+    /*    font-style: normal;
+    font-weight: normal; */
+}
+
+@font-face {
+    font-family: "NanumBarunGothic";
+    src:
+        url(../fonts/NanumBarunGothic.otf) format("opentype");
+    /*    font-style: normal;
+    font-weight: normal; */
+}
+
+@font-face {
+    font-family: "NanumBarunGothicBold";
+    src:
+        url(../fonts/NanumBarunGothicBold.otf) format("opentype");
+    /*    font-style: normal;
+    font-weight: normal; */
+}
+
+/* 나눔스퀘어 네오 */
+@font-face {
+    font-family: "NanumNeoHv";
+    src:
+        url(../fonts/NanumSquareNeoOTF-Hv.otf) format("opentype");
+    /*    font-style: normal;
+    font-weight: normal; */
+}
+
+@font-face {
+    font-family: "NanumNeoEb";
+    src:
+        url(../fonts/NanumSquareNeoOTF-Eb.otf) format("opentype");
+    /*    font-style: normal;
+    font-weight: normal; */
+}
+
+@font-face {
+    font-family: "NanumNeoBd";
+    src:
+        url(../fonts/NanumSquareNeoOTF-Bd.otf) format("opentype");
+    /*    font-style: normal;
+    font-weight: normal; */
+}
+
+@font-face {
+    font-family: "NanumNeoRg";
+    src:
+        url(../fonts/NanumSquareNeoOTF-Rg.otf) format("opentype");
+    /*    font-style: normal;
+    font-weight: normal; */
+}
+
+@font-face {
+    font-family: "NanumNeoLt";
+    src:
+        url(../fonts/NanumSquareNeoOTF-Lt.otf) format("opentype");
+    /*    font-style: normal;
+    font-weight: normal; */
+}
+
+/* 에스코어드림 */
+@font-face {
+    font-family: "SCDream3Lt";
+    src:
+        url(../fonts/SCDream3Lt.otf) format("opentype");
+    /*    font-style: normal;
+    font-weight: normal; */
+}
+
+@font-face {
+    font-family: "SCDream4Rg";
+    src:
+        url(../fonts/SCDream4Rg.otf) format("opentype");
+    /*    font-style: normal;
+    font-weight: normal; */
+}
+
+@font-face {
+    font-family: "SCDream5Md";
+    src:
+        url(../fonts/SCDream5Md.otf) format("opentype");
+    /*    font-style: normal;
+    font-weight: normal; */
+}
+
+@font-face {
+    font-family: "SCDream6Bd";
+    src:
+        url(../fonts/SCDream6Bd.otf) format("opentype");
+    /*    font-style: normal;
+    font-weight: normal; */
+}
+
+@font-face {
+    font-family: "SCDream7Eb";
+    src:
+        url(../fonts/SCDream7Eb.otf) format("opentype");
+    /*    font-style: normal;
+    font-weight: normal; */
+}
+
+/* SB 어그로 */
+@font-face {
+    font-family: "SBAggroL";
+    src:
+        url(../fonts/SBAggroL.ttf) format("truetype");
+    /*    font-style: normal;
+    font-weight: normal; */
+}
+
+@font-face {
+    font-family: "SBAggroM";
+    src:
+        url(../fonts/SBAggroM.ttf) format("truetype");
+    /*    font-style: normal;
+    font-weight: normal; */
+}
+
+@font-face {
+    font-family: "SBAggroB";
+    src:
+        url(../fonts/SBAggroB.ttf) format("truetype");
+    /*    font-style: normal;
+    font-weight: normal; */
+}
+// 설립체
+@font-face {
+    font-family: "establishRetrosans";
+    src:
+        url(../fonts/establishRetrosans.ttf) format("truetype"),
+        url(../fonts/establishRetrosansOTF.otf) format("opentype");
+    /*    font-style: normal;
+    font-weight: normal; */
+}
