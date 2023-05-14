@@ -86,7 +86,7 @@ All default [Sass](http://sass-lang.com/) variables can be found in `scss/twenty
 ## Support
 
 - IE8+
-- Firefox (latest)
+- Firefox (box_real)
 - Chrome
 - Safari
 - Android 
